@@ -1,6 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-	return 0;
+	int Time;
+	Time = 3;
+
+	cout << Time << endl;
 }
